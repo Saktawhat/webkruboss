@@ -1,0 +1,10 @@
+* {
+    padding: 0;
+    background-color: black;
+    color: white;
+    height: 100vh;
+}
+
+.header h1 {
+    color: white;
+}
